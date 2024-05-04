@@ -1,4 +1,11 @@
-### Hi there 👋
+
+### Hi there 车中草同学[A grass in the car]👋
+- 🔭 I’m currently working on [RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval)
+- 🌱 My main research interest focuses on  Retrieval(Embedding, ColBERT,Cross Encoder), NLP(LLM，RAG).
+- 👯 I’m looking to collaborate on [RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval)
+- 📫 How to reach me: suda.jcli@qq.com
+
+
 
 <!--
 **NLPJCL/NLPJCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
