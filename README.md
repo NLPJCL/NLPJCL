@@ -1,6 +1,6 @@
 
 ### Hi there 车中草同学[A grass in the Cart]👋
-- 🔭 I’m currently working on [RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval)
+- 🔭 I’m currently working on [RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval), [denser-retriever](https://github.com/denser-org/denser-retriever).
 - 🌱 My main research interest focuses on  Retrieval(Embedding, ColBERT,Reranker), NLP(LLM，RAG).
 - 👯 I’m looking to collaborate on [RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval)
 - 📫 How to reach me: jcli.nlp@gmail.com
