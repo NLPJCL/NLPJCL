@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval)。
 - 🌱 My main research interest focuses on  Retrieval(Embedding, ColBERT,Reranker), NLP(LLM，Search Agent).
 - 👯 I’m looking to collaborate on [RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval)
-- 📫 How to reach me: jcli.nlp@gmail.com
+- 📫 How to reach me: jcli.nlp@gmail.com； WeChat：liruanyi
 
 
 
