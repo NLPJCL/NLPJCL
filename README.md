@@ -1,7 +1,7 @@
 
 ### Hi there 车中草同学[A grass in the Cart]👋
 - 🔭 I’m currently working on [RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval)。
-- 🌱 My main research interest focuses on  IR, LLM，Search Agent.
+- 🌱 My main research interest focuses on  IR, LLM, Search Agent.
 - 👯 I’m looking to collaborate on [RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval)
 - 📫 How to reach me: jcli.nlp@gmail.com； WeChat：liruanyi
 
